@@ -107,6 +107,76 @@ Always learning, always creating. 😄
   </tr>
 </table>
 
+### 💻 Tech Stack
+
+#### Web3 Development
+<p align="left">
+  <img src="https://img.shields.io/badge/-Solidity-%23363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Ethers.js-%234E4E4E?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Web3.js-%23F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Foundry-%23FF9E0F?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Yul-%23FF9E0F?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Hardhat-%23F7DF1E?style=for-the-badge&logo=ethereum&logoColor=black"/>
+</p>
+
+#### Frontend Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Nuxt.js-%2300DC82?style=for-the-badge&logo=nuxt.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Remix-%23000000?style=for-the-badge&logo=remix&logoColor=white"/>
+</p>
+
+#### Styling & Design
+<p align="left">
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-%2338B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Styled_Components-%23DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Material_UI-%230081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Chakra_UI-%23319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
+</p>
+
+#### Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/-TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Php-%233776AB?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Bash-%23339933?style=for-the-badge&logo=gnubash&logoColor=black"/>
+</p>
+
+#### Backend & Database
+<p align="left">
+  <img src="https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NestJS-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GraphQL-%23E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+</p>
+
+#### DevOps & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AWS-%23232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Terraform-%237B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+#### Testing & Quality
+<p align="left">
+  <img src="https://img.shields.io/badge/-Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Cypress-%23172814?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint&logoColor=white"/>
+</p>
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://github.com/ohmynofan" target="_blank">
